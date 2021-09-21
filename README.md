@@ -2,6 +2,6 @@
 
 Get to know which sport uses the ball from available emoticons.
 
-## Link [https://codesandbox.io/s/github/ozairkhan2810/balls-sport/tree/main/](https://codesandbox.io/s/github/ozairkhan2810/balls-sport/tree/main/)
+## Link [https://fpdgf.csb.app/](https://fpdgf.csb.app/)
 
 Made using reactJS in Codesandbox.
